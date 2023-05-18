@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const instanse=axios.create({
-    baseURL:'https://viva-reklam.com'
+    baseURL:'80.249.146.159'
 })
 
 instanse.interceptors.request.use((config)=>{

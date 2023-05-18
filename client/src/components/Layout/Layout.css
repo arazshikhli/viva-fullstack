@@ -1,0 +1,18 @@
+
+.header{
+    display: flex;
+    flex-direction: row;
+    max-width: 100%;
+    min-height: 60px;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 20px 0 10px;
+    background-color: rgb(117, 116, 116);
+    box-shadow: 0px 3px 2px 2px rgb(117, 116, 116);
+}
+
+.nav_link{
+    text-decoration: none;
+    margin-right: 10px;
+    color: rgb(243, 249, 250);
+}

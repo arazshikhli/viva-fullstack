@@ -1,0 +1,31 @@
+{
+    "header":{
+        "home":"Home",
+        "gallery":"Gallery",
+        "message":"Write to order",
+        "about":"About",
+        "configurator":"Configurator"
+    },
+    "login":{
+        "page_title":"Admin authorithation panel",
+        "enter_login":"Enter login",
+        "enter_password":"Enter password",
+        "pass_label":"Password",
+        "login_label":"Login",
+        "login_btn":"Log in"
+    },
+    "adverts":{
+        "types":{
+            "street_adv":"Street advert",
+            "l_format_print":"High quality printing",
+            "stands":"Stands",
+            "some": "some",
+            "some1": "some1"
+        },
+        "title":{
+            "street_adv_title":"Каждый рекламодатель в зависимости от цели рекламной кампании может подобрать разные конструкции. Наружная реклама благодаря многообразию существующих типов и форматов позволяет подобрать конструкцию под любую целевую аудиторию.",
+            "l_format_print_title":"В современном мире, наряду со сложными рекламными конструкциями, успешно используются несложная печатная реклама и речь идет не о листовках, которые раздают у метро, а о широкоформатной печати."
+
+        }
+    }
+}

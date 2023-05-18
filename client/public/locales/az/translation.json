@@ -1,0 +1,32 @@
+{
+    "header":{
+        "home":"Əsas səhifə",
+        "gallery":"Galereya",
+        "message":"Bizə yazın",
+        "about":"Haqqımızda",
+        "configurator":"Konfigurator"
+    },
+    "login":{
+        "page_title":"Admin avtorizasiya paneli",
+        "enter_login":"Login daxil edin",
+        "enter_password":"Parolu daxil edin",
+        "pass_label":"Parol",
+        "login_label":"Login",
+        "login_btn":"Daxil ol"
+    }
+    ,
+    "adverts":{
+        "types":{
+            "street_adv":"Çöl reklamı",
+            "l_format_print":"Yüksək formatlı çap",
+            "stands":"Sərgi stendləri",
+            "some": "some",
+            "some1": "some1"
+        },
+        "title":{
+            "street_adv_title":"Каждый рекламодатель в зависимости от цели рекламной кампании может подобрать разные конструкции. Наружная реклама благодаря многообразию существующих типов и форматов позволяет подобрать конструкцию под любую целевую аудиторию.",
+            "l_format_print_title":"В современном мире, наряду со сложными рекламными конструкциями, успешно используются несложная печатная реклама и речь идет не о листовках, которые раздают у метро, а о широкоформатной печати."
+
+        }
+    }
+}
